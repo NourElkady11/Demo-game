@@ -1,0 +1,9 @@
+C:\Users\Actel\source\repos\LongGame\LongGame\bin\Debug\LongGame.exe.config
+C:\Users\Actel\source\repos\LongGame\LongGame\bin\Debug\LongGame.exe
+C:\Users\Actel\source\repos\LongGame\LongGame\bin\Debug\LongGame.pdb
+C:\Users\Actel\source\repos\LongGame\LongGame\obj\Debug\LongGame.csproj.AssemblyReference.cache
+C:\Users\Actel\source\repos\LongGame\LongGame\obj\Debug\LongGame.Properties.Resources.resources
+C:\Users\Actel\source\repos\LongGame\LongGame\obj\Debug\LongGame.csproj.GenerateResource.cache
+C:\Users\Actel\source\repos\LongGame\LongGame\obj\Debug\LongGame.csproj.CoreCompileInputs.cache
+C:\Users\Actel\source\repos\LongGame\LongGame\obj\Debug\LongGame.exe
+C:\Users\Actel\source\repos\LongGame\LongGame\obj\Debug\LongGame.pdb
